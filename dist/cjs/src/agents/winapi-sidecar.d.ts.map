@@ -1,0 +1,1 @@
+{"version":3,"file":"winapi-sidecar.d.ts","sourceRoot":"","sources":["../../../../src/agents/winapi-sidecar.ts"],"names":[],"mappings":"AAqBA,OAAO,EAEL,WAAW,EAKZ,MAAsB,SAAS,CAAA;AAWhC,cACM,aAAc,SAAQ,WAAW;IAMrC,gBAAgB,IAAI,OAAO,CAAC,MAAM,CAAC;IAGnC,UAAU;CAGX;AAED,OAAO,EAAE,aAAa,EAAE,CAAA"}
